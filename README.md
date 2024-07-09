@@ -1,2 +1,4 @@
 # deep-learning-challenge
-A deep learning exercise
+A neural network exercise
+
+All code was written by me, although the Google Colab AI kept trying to help me complete lines that it thought I was trying to write, and I occasionally took its "advice" whether I intended to or not (for example, I didn't set up a for loop quite right, and it suggested a correction when the code failed - the suggestion worked).
